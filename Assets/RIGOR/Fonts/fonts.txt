@@ -1,0 +1,1 @@
+All fonts go here. They will be processed as font assets using TextMeshPro.

@@ -1,0 +1,17 @@
+Features:
+	2D
+	3D Characters and Animation
+	3D World Building
+	AR
+	Mobile
+	VR
+Packages:
+	AI Navigation
+	Input Manager
+	Splines
+	Sysroot Base
+	Sysroot Linux x64
+	Toolchain Windows x64 Host for Linux Targets
+	Toolchain Linux x64 Host for Linux Targets
+	
+Using Universal Render Pipeline from here on.
