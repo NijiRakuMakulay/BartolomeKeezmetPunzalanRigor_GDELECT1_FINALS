@@ -38,7 +38,7 @@ MonoBehaviour:
     - line: '|   useOnDemandResources: 0'
     - line: '|   accelerometerFrequency: 60'
     - line: '|   companyName: PaoloRigor'
-    - line: '|   productName: RIGOR_GDELECT1_FINALS'
+    - line: '|   productName: BartolomeKeezmetPunzalanRigor_GDELECT1_FINALS'
     - line: '|   defaultCursor: {instanceID: 0}'
     - line: '|   cursorHotspot: {x: 0, y: 0}'
     - line: '|   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b:
@@ -197,7 +197,7 @@ MonoBehaviour:
     - line: '|   androidMaxAspectRatio: 2.4'
     - line: '|   androidMinAspectRatio: 1'
     - line: '|   applicationIdentifier:'
-    - line: '|     Android: com.PaoloRigor.RIGOR_GDELECT1_FINALS'
+    - line: '|     Android: com.PaoloRigor.BartolomeKeezmetPunzalanRigor_GDELECT1_FINALS'
     - line: '|     Standalone: com.Unity-Technologies.com.unity.template.urp-blank'
     - line: '|     iPhone: com.Unity-Technologies.com.unity.template.urp-blank'
     - line: '|   buildNumber:'
@@ -1008,7 +1008,7 @@ MonoBehaviour:
         m_ExportAsGoogleAndroidProject: 0
         m_DebugSymbolLevel: 1
         m_DebugSymbolFormat: 5
-        m_CurrentDeploymentTargetId: __builtin__target_default
+        m_CurrentDeploymentTargetId: 1WMHHB40ED2016
         m_BuildType: 2
         m_LinkTimeOptimization: 0
         m_BuildAppBundle: 0

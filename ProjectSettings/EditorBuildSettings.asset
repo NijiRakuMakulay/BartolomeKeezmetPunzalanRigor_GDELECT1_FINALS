@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/RIGOR/Scenes/BattleRoom.unity
-    guid: 3da625df12753c24d86dfb3f9f9ffbc3
+    path: Assets/RIGOR/Scenes/VRWorld.unity
+    guid: bf0a1a3d6737b76438c07ab6ae09cd23
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bd2a0c09892e9804283c5d89445ba9c8, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
