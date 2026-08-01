@@ -10,7 +10,10 @@ public class PlayerHitbox : MonoBehaviour
         {
             if (Gunner.AliveCheck())
             {
-                Gunner.GetHit(collision);
+                if (!GameManager.CoverCheck())
+                {
+                    Gunner.GetHit(collision);
+                }
             }
         }
     }
